@@ -22,3 +22,4 @@ payload:
   - DOMAIN,global.uhdnow.com #yhd 国际 CDN 线路，适合大部分播放场景
   - DOMAIN,guaiguaiemby.83787.de #t.me/GUAIemby GUAIEmby公费追新硬盘高码服
   - DOMAIN,tanhuatv.site #Jellyfin探花TV
+  - DOMAIN,guaiguaiemby.83787.de #guaiguaiEmby
