@@ -18,6 +18,7 @@ payload:
   - DOMAIN,ask.ash.yt #ASK机场服
   - DOMAIN,ykk.emby.moe #ykk机场合作1111emby
   - DOMAIN,link00.okemby.org #t.me/OkEmbyChat
+  - DOMAIN,okemby.wangjunqiang.dev
   - DOMAIN,v1.uhdnow.com #uhd CloudFlare Pro 优化线路，适合大部分播放场景
   - DOMAIN,global.uhdnow.com #yhd 国际 CDN 线路，适合大部分播放场景
   - DOMAIN,guaiguaiemby.83787.de #t.me/GUAIemby GUAIEmby公费追新硬盘高码服
