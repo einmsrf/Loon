@@ -25,3 +25,5 @@ payload:
   - DOMAIN,guaiguaiemby.83787.de #guaiguaiEmby
   - DOMAIN,emby.sadchicktv.com:443 #悲伤小鸡
   - DOMAIN,stream-1.sadchicktv.com #悲伤小鸡
+  - DOMAIN,free.lilyemby.com
+  - DOMAIN,fastboostcdn.com
